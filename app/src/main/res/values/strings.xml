@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Fodify</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="social_login">Social Login</string>
+    <string name="queQuieresComerHoy">¿Qué quieres comer hoy?</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="a_la_carta">A la carta</string>
+    <string name="snack">Snack</string>
+    <string name="conoceTodasLasUbicaciones">Conoce todas nuestras ubicaciones</string>
+    <string name="actual_location">Actual Location</string>
+    <string name="fodifyWebName">Fodify.com.mx</string>
+    <string name="menu">Menú</string>
+    <string name="mi_cuenta">Mi Cuenta</string>
+    <string name="mis_favoritos">Mis Favoritos</string>
+    <string name="mi_historial">Mi Historial</string>
+    <string name="feedback">Feedback</string>
+    <string name="horario_desayuno">Disponible solo de 6:00hr a 12:00hrs</string>
+    <string name="seleccionardelmenu">Selecciona lo que mas quieras de todos nuestros menus</string>
+    <string name="terminos_y_condiciones">Terminos y Condiciones</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="compartir">Compartir</string>
+    <string name="food">Imagen</string>
+    <string name="carrito_de_compra">Carrito de Compra</string>
+    <string name="notificacion">Notificacion</string>
+    <string name="alredy_registered_login">Alredy registered? Login</string>
+    <string name="not_registered_yet_signup">Not registered yet? Signup</string>
+    <string name="signup">Signup</string>
+    <string name="salir">Salir</string>
+
+</resources>

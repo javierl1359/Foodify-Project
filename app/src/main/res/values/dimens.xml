@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="section_spacing">24dp</dimen>
+    <dimen name="header_text_size">18sp</dimen>
+    <dimen name="text_padding">16dp</dimen>
+</resources>
